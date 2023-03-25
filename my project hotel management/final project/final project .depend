@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1664357734 source:d:\assignments -c\function\final project 2\main.c
+	<stdio.h>
+	<conio.h>
+
+1666998984 source:d:\c\assignments -c\my project hotel management\final project 2\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1666998984 source:d:\c\my project hotel management\final project 2\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+

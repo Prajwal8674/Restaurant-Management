@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670384179 source:d:\c programming\my project hotel management\final project\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
